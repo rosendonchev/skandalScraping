@@ -3,6 +3,7 @@ const { exec } = require('child_process');
 const puppeteer = require('puppeteer');
 
 async function scrape() {
+    exec("clear");
     // Clear the sources.m3u file before writing new data
     fs.writeFileSync('sources.m3u', '', 'utf-8');
     fs.appendFileSync('sources.m3u', "#EXTM3U\n", 'utf-8');
