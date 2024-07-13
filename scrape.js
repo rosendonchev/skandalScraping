@@ -7,11 +7,13 @@ async function scrape() {
     fs.writeFileSync('sources.m3u', '', 'utf-8');
 
     // Launch a new browser instance
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+    });
     const page = await browser.newPage();
 
     // Replace this URL with the URL of the page containing the links you want to scrape
-    const url = 'https://www.seir-sanduk.com/';
+    const url = 'https://www.seir-sanduk.com/?id=bnt-2&pass=55EKLkasldkfa55';
     
     await page.goto(url, { waitUntil: 'networkidle2' });
 
@@ -44,12 +46,14 @@ async function scrape() {
             });
 
             if (playerSource) {
-                const data = `#EXTINF:-1,Player Source\n${playerSource}\n`;
+                if (playerSource != "https://www.seir-sanduk.com/otustanausta1.mp4") {
+                    const data = `#EXTINF:-1,Player Source\n${playerSource}\n`;
 
-                // Append the data to sources.m3u
-                fs.appendFileSync('sources.m3u', data, 'utf-8');
-                
-                console.log(`Data successfully written for ${link}`);
+                    // Append the data to sources.m3u
+                    fs.appendFileSync('sources.m3u', data, 'utf-8');
+                    
+                    console.log(`Data successfully written for ${link}`);
+                }
             } else {
                 console.log(`player.source not found for ${link}`);
             }
