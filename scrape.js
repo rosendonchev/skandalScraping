@@ -65,30 +65,6 @@ async function scrape() {
 
     // Close the browser instance
     await browser.close();
-
-    // Execute Git commands to add, commit, and push the changes
-    exec('git add sources.m3u', (err, stdout, stderr) => {
-        if (err) {
-            console.error(`Error adding file: ${stderr}`);
-            return;
-        }
-
-        exec('git commit -m "Update sources.m3u with new player sources"', (err, stdout, stderr) => {
-            if (err) {
-                console.error(`Error committing file: ${stderr}`);
-                return;
-            }
-
-            exec('git push', (err, stdout, stderr) => {
-                if (err) {
-                    console.error(`Error pushing to repository: ${stderr}`);
-                    return;
-                }
-
-                console.log('Changes successfully pushed to GitHub repository');
-            });
-        });
-    });
 }
 
 // Run the scrape function immediately and then every hour (3600000 milliseconds)
