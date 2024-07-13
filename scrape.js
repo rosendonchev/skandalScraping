@@ -2,12 +2,12 @@ const fs = require('fs');
 const { exec } = require('child_process');
 const puppeteer = require('puppeteer');
 
-async function scrape() {
+async function scrapeAndPushToGit() {
     // Clear the sources.m3u file before writing new data
     fs.writeFileSync('sources.m3u', '', 'utf-8');
     fs.appendFileSync('sources.m3u', "#EXTM3U\n", 'utf-8');
-
-    // Launch a new browser instance
+    
+    // Launch a new browser instance with --no-sandbox flag
     const browser = await puppeteer.launch({
         args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
@@ -91,6 +91,5 @@ async function scrape() {
     });
 }
 
-// Run the scrape function immediately and then every hour (3600000 milliseconds)
-scrape();
-setInterval(scrape, 900000);
+// Export the function to be used in the server
+module.exports = scrapeAndPushToGit;
