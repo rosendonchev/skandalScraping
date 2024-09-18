@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1,bnt-1-hd-online?player=1&id=hd-bnt-1-hd&pass=
-https://cdn5.gledam.xyz/hlsfhd/hd-bnt-1-hd.m3u8?e=1726675479&hash=d09KLJ8o72OV6Qsu113V3w
-#EXTINF:-1,bnt-1-hd-online?player=2&id=hd-bnt-1-hd&pass=
-https://de1.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1726675483&hash=h3GZM-KEYpOIUU3FXD1I9g
-#EXTINF:-1,bnt-1-hd-online?player=3&id=hd-bnt-1-hd&pass=
-https://cdn1.gledam.xyz/dvr/hd-bnt-1-hd/tracks-v1a1/rewind-86940.m3u8?e=1726675488&hash=LHdYqF0qGOht-n-I-gz0Bw
+https://cdn5.gledam.xyz/hlsfhd/hd-bnt-1-hd.m3u8?e=1726677318&hash=d4aLOO4BK7I9OqWOyC1_pA
