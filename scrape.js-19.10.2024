@@ -110,16 +110,11 @@ async function scrapeAndPushToGit() {
                 
                 scriptTags.forEach(script => {
                     const scriptContent = script.innerHTML;
-                    if (scriptContent.includes('Element")')) {
+                    if (scriptContent.includes('VideoElement").')) {
                         const match = scriptContent.match(/file:\s*"([^"]+)"/);
                         if (match) {
                             source = match[1];
                         }
-                    } else if (scriptContent.includes('const streamUrl =')) {
-                        const match = scriptContent.match(/const streamUrl =\s*"([^"]+)"/);
-                        if (match) {
-                            source = match[1];
-                        }  
                     }
                 });
 

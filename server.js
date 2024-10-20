@@ -28,7 +28,7 @@ server.listen(0, async () => {
         // Perform initial scraping and Git push after server starts
         await scrapeAndPushToGit();
         console.log('Initial scraping and Git push completed successfully');
-        setInterval(await scrapeAndPushToGit, 1800000)
+        setInterval(await scrapeAndPushToGit, 3600000)
     } catch (error) {
         console.error('Error performing initial scraping and pushing to Git:', error);
     }
