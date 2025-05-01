@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BNT1
-https://cdn5.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1746117311&hash=S7Bw8YkUV9pxcTQeU7b7rg
-#EXTINF:-1,BNT2
-https://cdn5.glebul.com/hls/bnt-2/index.m3u8?e=1746117314&hash=XRz2fQR2UabBLaPKekJRRQ
-#EXTINF:-1,BNT3
-https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1746117316&hash=DD1BulvyyBH4yZ4wUgLJbQ
 #EXTINF:-1,NHKWorld
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1,CGTN
