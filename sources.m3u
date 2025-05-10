@@ -1,4 +1,134 @@
 #EXTM3U
+#EXTINF:-1,BNT 1
+https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1746864055&hash=n86Y6k_y9CV99G_CWCApXQ
+#EXTINF:-1,BNT 2
+https://cdn4.glebul.com/hls/bnt-2/index.m3u8?e=1746864058&hash=THPprClHcSaxkB8q4E741Q
+#EXTINF:-1,BNT 3
+https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1746864061&hash=xluDSOfvLXeJBb280fL2UQ
+#EXTINF:-1,BNT 4
+https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1746864064&hash=mitb27VBPrmYSHviHYTWxQ
+#EXTINF:-1,Nova
+https://cdn5.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1746864066&hash=rwig1cI-m-GV2QTyI3raaw
+#EXTINF:-1,bTV
+https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1746864069&hash=kDe3EclA3TquD64xzBX5LA
+#EXTINF:-1,bTV Action
+https://cdn5.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1746864072&hash=9V-SQQL14pWb-pEZsrlsqQ
+#EXTINF:-1,Btv Cinema
+https://cdn3.glebul.com/hls/btv-cinema/index.m3u8?e=1746864075&hash=92vmev8UViSEiY7KmPBd5Q
+#EXTINF:-1,Btv Comedy
+https://cdn4.glebul.com/hls/btv-comedy/index.m3u8?e=1746864077&hash=FihmYnXaLN_wHfQHqdSN4w
+#EXTINF:-1,BTV Lady
+https://cdn4.glebul.com/hls/btv-story/index.m3u8?e=1746864080&hash=JDbcVlAolT4zEuRSEQTM4w
+#EXTINF:-1,Bulgaria On Air
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1746864083&hash=YACEOrkCD5xz5PE85RhmkA
+#EXTINF:-1,Cartoon Network
+https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1746864086&hash=c1mt7fB891abyoYu_EucgQ
+#EXTINF:-1,City TV
+https://cdn5.glebul.com/hls/city-tv/index.m3u8?e=1746864089&hash=98X9x8_IfzThhMN_PAakqg
+#EXTINF:-1,Code Fashion
+https://cdn4.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1746864091&hash=KHig2RDk0AOnbHdkF68YHw
+#EXTINF:-1,Diema Family
+https://cdn5.glebul.com/hls/diema-family/index.m3u8?e=1746864094&hash=ztuzzVqmV06p-yBtKRGUwg
+#EXTINF:-1,Diema Sport
+https://cdn3.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1746864097&hash=gTylmtYdxwv2BOK4C9Y83g
+#EXTINF:-1,Diema Sport 2
+https://cdn5.glebul.com/hls/hd-diema-sport-2-hd/index.m3u8?e=1746864100&hash=c8Ikyn-x3bRWCz47ZDWjNQ
+#EXTINF:-1,Diema Sport 3
+https://cdn5.glebul.com/hls/hd-diema-sport-3-hd/index.m3u8?e=1746864103&hash=pFnuOkQqEHtjOKhdVdBDJg
+#EXTINF:-1,Diema
+https://cdn3.glebul.com/hls/diema/index.m3u8?e=1746864106&hash=Rx--NtBvZ-fljbByqA0wUg
+#EXTINF:-1,Disney
+https://cdn4.glebul.com/hls/disney-channel/index.m3u8?e=1746864108&hash=oOTBUGTfHwXs1CZUzQr0Pw
+#EXTINF:-1,Discovery HD
+https://cdn5.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1746864111&hash=ozwThSGfkWQDVJW9Wmc42w
+#EXTINF:-1,DSTV
+https://cdn3.glebul.com/hls/dstv/index.m3u8?e=1746864114&hash=4zzlrDJaeCrdliLfJkj3PQ
+#EXTINF:-1,E-Kids
+https://cdn5.glebul.com/hls/e-kids/index.m3u8?e=1746864117&hash=tEf5wU2mG3GcnPB62xJPLw
+#EXTINF:-1,Epic Drama
+https://cdn4.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1746864120&hash=4jZH_mwlNaqhm5NwWQU1-w
+#EXTINF:-1,Eurosport
+https://cdn5.glebul.com/hls/hd-eurosport-1-hd/index.m3u8?e=1746864123&hash=TP8Pm9nIbv0tg7jtFSHACQ
+#EXTINF:-1,Eurosport 2
+https://cdn3.glebul.com/hls/hd-eurosport-2-hd/index.m3u8?e=1746864125&hash=ahYcZP01mwewLA6snzSStg
+#EXTINF:-1,EuroNews
+https://cdn5.glebul.com/hls/euronews-bulgaria/index.m3u8?e=1746864128&hash=EaVzmeZad6gJYFPB4R0PFw
+#EXTINF:-1,Evrokom
+https://cdn5.glebul.com/hls/evrokom/index.m3u8?e=1746864131&hash=-d77WHEMCyfwQZ-ek04iJg
+#EXTINF:-1,FolklorTV
+https://cdn3.glebul.com/hls/folklor-tv/index.m3u8?e=1746864133&hash=AGhVkdNebEJoOktwCCinhQ
+#EXTINF:-1,Food Network
+https://cdn5.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1746864137&hash=mBHBcg96unidXiQNnj1qEQ
+#EXTINF:-1,Star Crime
+https://cdn4.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1746864139&hash=lnqkOGtoK31yE5qJsD3qng
+#EXTINF:-1,Star Channel
+https://cdn5.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1746864142&hash=CJynrwUEGJOTh3gB8Vmalg
+#EXTINF:-1,Star Life
+https://cdn5.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1746864145&hash=8d66bdxvvv9yTAZh0D3CPQ
+#EXTINF:-1,ID Xtra HD
+https://cdn5.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1746864147&hash=ZIBlBZxTKl8jK6XvW0lxew
+#EXTINF:-1,Kanal3
+https://cdn5.glebul.com/hls/kanal-3/index.m3u8?e=1746864150&hash=HfqaMNWgIVguxFXIWzE6XA
+#EXTINF:-1,KinoNova
+https://cdn5.glebul.com/hls/kino-nova/index.m3u8?e=1746864153&hash=U3Spil-KORIq4JVItGzrcA
+#EXTINF:-1,Max Sport 1
+https://cdn3.glebul.com/hls/hd-max-sport-1-hd/index.m3u8?e=1746864156&hash=c3o67iX8G0mzno7AgRMQAA
+#EXTINF:-1,Max Sport 2
+https://cdn4.glebul.com/hls/hd-max-sport-2-hd/index.m3u8?e=1746864158&hash=tvyIhj1XSWtyoBUl-9pdtw
+#EXTINF:-1,Max Sport 3
+https://cdn3.glebul.com/hls/hd-max-sport-3-hd/index.m3u8?e=1746864161&hash=oUgBPKt6XCi_3LPB_K0JQg
+#EXTINF:-1,Max Sport 4
+https://cdn5.glebul.com/hls/hd-max-sport-4-hd/index.m3u8?e=1746864164&hash=r3ZchdfWRuJ6EdfxStP3zg
+#EXTINF:-1,NatGeo HD
+https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1746864166&hash=CP3GeFWQChP7auc5mRO-kA
+#EXTINF:-1,NatGeo Wild
+https://cdn5.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1746864169&hash=hcxpEG22M9aN88lzXc4j5A
+#EXTINF:-1,Nick Jr.
+https://cdn3.glebul.com/hls/nick-jr/index.m3u8?e=1746864172&hash=hiQcd5xvnIMyo3t98ucFLg
+#EXTINF:-1,Nickeldeon
+https://cdn3.glebul.com/hls/nickelodeon/index.m3u8?e=1746864175&hash=0TV2NLaFMtuSn5De8O4SjQ
+#EXTINF:-1,Nicktoons HD
+https://cdn4.glebul.com/hls/nicktoons/index.m3u8?e=1746864178&hash=LcAPYepS1-ssZnsJP4OpKw
+#EXTINF:-1,Nova News
+https://cdn4.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1746864181&hash=SbY2ykP3kVjHpMpETYQZOQ
+#EXTINF:-1,Nova Sport
+https://cdn4.glebul.com/hls/hd-nova-sport-hd/index.m3u8?e=1746864183&hash=YGqyRJgd8GuOfe3P6HhkPA
+#EXTINF:-1,Planeta Folk
+https://cdn5.glebul.com/hls/planeta-folk/index.m3u8?e=1746864186&hash=Vn4caRuTTf_COJfNQsYQrA
+#EXTINF:-1,Planeta
+https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1746864189&hash=inhtgLqbZYlZYuQbNvsl2A
+#EXTINF:-1,Ring HD
+https://cdn5.glebul.com/hls/hd-ring-bg-hd/index.m3u8?e=1746864192&hash=WYxAG7jO34hRiNgsqKIG9g
+#EXTINF:-1,Rodina
+https://cdn5.glebul.com/hls/rodina-tv/index.m3u8?e=1746864195&hash=iFJnQg2dclqLK8gs2x3ZLg
+#EXTINF:-1,7/8 TV
+https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1746864198&hash=-u2zb4iClme42Wqh74Iolw
+#EXTINF:-1,Skat
+https://cdn5.glebul.com/hls/skat/index.m3u8?e=1746864200&hash=S6ZQ5PYly-2r9E4b0sz5IA
+#EXTINF:-1,The Voice
+https://cdn3.glebul.com/hls/the-voice/index.m3u8?e=1746864203&hash=fPWBLe2wjN5-SV07JNE4-Q
+#EXTINF:-1,TiankovFolk
+https://cdn5.glebul.com/hls/tiankov-tv/index.m3u8?e=1746864206&hash=9gGaAQWjC7INXIZIIsJVZw
+#EXTINF:-1,TLC
+https://cdn5.glebul.com/hls/tlc/index.m3u8?e=1746864208&hash=EtPvS_T5ty5lVQUmqu_5mw
+#EXTINF:-1,Travel Channel
+https://cdn4.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1746864212&hash=rRmpntWqgPGJxHNQ4MQQ0Q
+#EXTINF:-1,Travel TV
+https://cdn4.glebul.com/hls/travel-tv/index.m3u8?e=1746864215&hash=vVlpK7pWSo4-McOT2JIrKQ
+#EXTINF:-1,TV1
+https://cdn4.glebul.com/hls/tv-1/index.m3u8?e=1746864217&hash=1ByfBO1MGIlgDCgE98KGrw
+#EXTINF:-1,VTK
+https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1746864220&hash=16oMdAYiUu7Fq0ktoqpcow
+#EXTINF:-1,24 Kitchen
+https://cdn4.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1746864223&hash=ns1RL6Di-ScjJ2BHe6RsDw
+#EXTINF:-1,AXN
+https://cdn5.glebul.com/hls/axn/index.m3u8?e=1746864225&hash=q2w0fG_GGv8Ji3JevJR7ow
+#EXTINF:-1,AXN Black
+https://cdn5.glebul.com/hls/axn-black/index.m3u8?e=1746864228&hash=VhyMnQfdOrplAjwPUUiNLA
+#EXTINF:-1,AXN White
+https://cdn4.glebul.com/hls/axn-white/index.m3u8?e=1746864231&hash=5Efh2RVfnxihk-p4waiFBg
+#EXTINF:-1,Bloomberg BG
+https://cdn4.glebul.com/hls/bloomberg-tv/index.m3u8?e=1746864234&hash=DIDTX6hxoGIlj-8rDdThjw
 #EXTINF:-1,NHK World HD
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1,CGTN
