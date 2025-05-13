@@ -1,4 +1,82 @@
 #EXTM3U
+#EXTINF:-1,BNT 1
+https://cdn4.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1747123296&hash=rvfbUCUCiwgKwiPVgV-VbQ
+#EXTINF:-1,BNT 2
+https://cdn4.glebul.com/hls/bnt-2/index.m3u8?e=1747123301&hash=DErIM8Egje5KNDEs_Cw1Hw
+#EXTINF:-1,BNT 3
+https://cdn5.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1747123306&hash=FyQ2JeZhw0nzwYntjqB_nQ
+#EXTINF:-1,BNT 4
+https://cdn5.glebul.com/hls/bnt-4/index.m3u8?e=1747123312&hash=VHzE2a1KGYijx7OJ3ri67A
+#EXTINF:-1,Nova
+https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1747123317&hash=10pa1FrcpjXCtigpfVMBQQ
+#EXTINF:-1,bTV
+https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1747123322&hash=oEiapjgDdw0FIMtRf6rkUg
+#EXTINF:-1,bTV Action
+https://cdn3.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1747123327&hash=U1daKsYzcbUrGIwdf0Nxqw
+#EXTINF:-1,Btv Cinema
+https://cdn4.glebul.com/hls/btv-cinema/index.m3u8?e=1747123333&hash=AiMrGA0zxcApCbonpzP4_g
+#EXTINF:-1,Btv Comedy
+https://cdn4.glebul.com/hls/btv-comedy/index.m3u8?e=1747123338&hash=QpzZSWALq0rywMGl3ypc0g
+#EXTINF:-1,BTV Lady
+https://cdn5.glebul.com/hls/btv-story/index.m3u8?e=1747123343&hash=DY8AZna5mdvPI36nPyM9Lg
+#EXTINF:-1,Bulgaria On Air
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1747123348&hash=XdKz80aIMurr0v5Aj6J49A
+#EXTINF:-1,Cartoon Network
+https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1747123353&hash=pcG62yl8AnMaZep0Axy0sQ
+#EXTINF:-1,City TV
+https://cdn4.glebul.com/hls/city-tv/index.m3u8?e=1747123358&hash=vVv9Rf1PLur7Qlwj4m8tvA
+#EXTINF:-1,Code Fashion
+https://cdn5.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1747123364&hash=5mcFUUm0yYqb6EMIrN_Okw
+#EXTINF:-1,Diema Family
+https://cdn3.glebul.com/hls/diema-family/index.m3u8?e=1747123369&hash=VExXAl3WnSBcF0Yuer5xtw
+#EXTINF:-1,Diema Sport
+https://cdn5.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1747123374&hash=3myIj6epdeVXbOgBYZsWxA
+#EXTINF:-1,Diema Sport 2
+https://cdn4.glebul.com/hls/hd-diema-sport-2-hd/index.m3u8?e=1747123379&hash=q5eVwnqDF_8Loyc50dAfWg
+#EXTINF:-1,Diema Sport 3
+https://cdn3.glebul.com/hls/hd-diema-sport-3-hd/index.m3u8?e=1747123384&hash=TOMp8UPkWdcDOx2qOiQ6rQ
+#EXTINF:-1,Diema
+https://cdn3.glebul.com/hls/diema/index.m3u8?e=1747123389&hash=dVUvTLrTW8CX6TGVPr62aA
+#EXTINF:-1,Disney
+https://cdn5.glebul.com/hls/disney-channel/index.m3u8?e=1747123394&hash=25C4pNTbQMTi5PleQg9JcQ
+#EXTINF:-1,Discovery HD
+https://cdn4.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1747123399&hash=P1BOARBNbFuVHHDCCMLxug
+#EXTINF:-1,DSTV
+https://cdn4.glebul.com/hls/dstv/index.m3u8?e=1747123404&hash=hg7XA2greyVl5td4npOUlw
+#EXTINF:-1,E-Kids
+https://cdn3.glebul.com/hls/e-kids/index.m3u8?e=1747123410&hash=sRh2ykF0gZrs5o4lb-B8pw
+#EXTINF:-1,Epic Drama
+https://cdn5.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1747123415&hash=ZRMWvxo9izAG6g8vUkB3Vg
+#EXTINF:-1,Eurosport
+https://cdn5.glebul.com/hls/hd-eurosport-1-hd/index.m3u8?e=1747123420&hash=sGnSGqWMtLGAIrOv7L-g_g
+#EXTINF:-1,Eurosport 2
+https://cdn4.glebul.com/hls/hd-eurosport-2-hd/index.m3u8?e=1747123425&hash=3NDP_hs2njWNum4sDtVMbQ
+#EXTINF:-1,EuroNews
+https://cdn4.glebul.com/hls/euronews-bulgaria/index.m3u8?e=1747123430&hash=gnjzWmpHtqjM2eNVJT1AQg
+#EXTINF:-1,Evrokom
+https://cdn5.glebul.com/hls/evrokom/index.m3u8?e=1747123435&hash=No30zQR2sQ6rg7T708MMkA
+#EXTINF:-1,FolklorTV
+https://cdn5.glebul.com/hls/folklor-tv/index.m3u8?e=1747123440&hash=LWTcUJnESWREg6XJ6nx8-g
+#EXTINF:-1,Food Network
+https://cdn5.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1747123445&hash=F8QqeSEiBU6mtPAzFJjr4Q
+#EXTINF:-1,Star Crime
+https://cdn5.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1747123451&hash=uPyvbFwGc6cPUSZKzIvl6w
+#EXTINF:-1,Star Channel
+https://cdn5.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1747123456&hash=tUTOgjmgiorst_SGvjAWPQ
+#EXTINF:-1,Star Life
+https://cdn4.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1747123461&hash=mftBLQiKMAM4W0cqXYQPSg
+#EXTINF:-1,ID Xtra HD
+https://cdn5.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1747123466&hash=bCjlS2efRzf55i3hPGYywA
+#EXTINF:-1,Kanal3
+https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1747123471&hash=zqnzoRua4N55sEWZDQZTkg
+#EXTINF:-1,KinoNova
+https://cdn4.glebul.com/hls/kino-nova/index.m3u8?e=1747123476&hash=APhcJGPdmTTi9FEp_ZGlrg
+#EXTINF:-1,Max Sport 1
+https://cdn4.glebul.com/hls/hd-max-sport-1-hd/index.m3u8?e=1747123482&hash=s3OYQJMJaCUbNDYJAFr2_w
+#EXTINF:-1,Max Sport 2
+https://cdn5.glebul.com/hls/hd-max-sport-2-hd/index.m3u8?e=1747123487&hash=gy0KqSNc8C0geha1hHdiYw
+#EXTINF:-1,Max Sport 3
+https://cdn4.glebul.com/hls/hd-max-sport-3-hd/index.m3u8?e=1747123492&hash=IfcjFeamA2kHiKZGWxxP4g
 #EXTINF:-1,NHK World HD
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1,CGTN
